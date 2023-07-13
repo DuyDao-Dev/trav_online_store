@@ -42,4 +42,4 @@ pd.pandas.set_option('display.max_columns', None)
 
 print(products_df)
 
-products_df.to_csv('product_list.csv')
+products_df.to_csv('product_list.csv', index=False)
