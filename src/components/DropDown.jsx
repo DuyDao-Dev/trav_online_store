@@ -1,9 +1,17 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import ItemsList from "./ItemsList";
 
 const DropDown = ({ items }) => {
   const categories = ["Dairy", "Meat", "Vegetables", "Fruits"];
-  const [category, setCategory] = useState("");
+  const [category, setCategory] = useState("Dairy");
+  const [itemsToDisplay, setItemsToDisplay] = useState([]);
+
+  useEffect(() => {
+    //TODO replace console.log with axios GET request
+      console.log(category);
+      //TODO replace items.filter with axios GET response
+      setItemsToDisplay(items.filter((item) => item.category === category));
+  }, [category]);
 
   return (
     <section>
@@ -25,7 +33,7 @@ const DropDown = ({ items }) => {
           </label>
         </form>
       </div>
-      <ItemsList items={items}/>
+      <ItemsList items={itemsToDisplay}/>
     </section>
   );
 };
