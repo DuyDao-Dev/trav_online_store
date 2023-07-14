@@ -8,9 +8,9 @@ num_of_products = 1000
 products = []
 
 for id in range(num_of_products):
-    # create timestamp
-    date = datetime.utcnow()
-    timestamp = date.strftime("%Y-%m-%d %H:%M:%S")
+    # create timestamp(timestamp removed due to errors occurring in db)
+    #date = datetime.utcnow()
+    #timestamp = date.strftime("%Y-%m-%d %H:%M:%S")
     
     # create unit_id
     unit_id = id + 1
@@ -34,9 +34,9 @@ for id in range(num_of_products):
     #barcode number created randomly
     barcode = np.random.randint(1000,9999)
 
-    products.append([timestamp, unit_id, product_name, popularity, price, durability, daysuntilexpiration, barcode])
+    products.append([unit_id, product_name, popularity, price, durability, daysuntilexpiration, barcode])
 
-products_df = pd.DataFrame(products, columns = ["timestamp", "unit_id", "product_name", "popularity", "price", "durability", "daysuntilexpiration", "barcode"])
+products_df = pd.DataFrame(products, columns = ["unit_id", "product_name", "popularity", "price", "durability", "daysuntilexpiration", "barcode"])
 
 pd.pandas.set_option('display.max_columns', None)
 
