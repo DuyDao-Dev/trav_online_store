@@ -1,4 +1,18 @@
-/* Dropdown Menu */
+/* ============= General ======================== */
+html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: #F5F5F7;
+  position: relative;
+  align-items: center;
+  margin: 0 auto;
+}
+
+
+/* =========== Dropdown Menu ==================== */
 
 .dropdown-content {
   max-width: 10em;
@@ -6,6 +20,7 @@
   position: relative;
   width: 100%;
   text-align: center;
+  font-family: 'Orbitron', sans-serif
 }
 
 #dropdown {
@@ -13,17 +28,15 @@
   display: flex;
   top: 3.2em;
   width: 100%;
-  /* visibility: hidden; */
-  /*   overflow: hidden; */
   transform: translateY(-1em);
   transition: transform ease 0.3s;
-  background: #ffffff;
+  background: #f6e7d5;
   border-radius: 0.5em;
   text-align: center;
 }
 
 .dropdown-content option:hover {
-  background: #1d1f24;
+  background: #fa9919;
 }
 
 /* Item */
@@ -41,6 +54,10 @@
   min-height: 100px;
 }
 
+.details {
+  height: 300px;
+}
+
 .info {
   float: left;
   width: 80%;
@@ -56,4 +73,83 @@
   height: 100px;
   float: left;
   margin: 0px 20px 0px 10px;
+}
+
+/* ========= Loader ======================= */
+
+.loading-pane {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 15px;
+}
+
+.loader {
+  font-size: 100px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mini.loading-pane {
+  height: 34px;
+}
+
+.mini .loader {
+  font-size: 34px;
+}
+
+/* ==================== Buttons ====================== */
+.buttons {
+  background-color: transparent;
+  margin-top: 20px;
+  border: 1px solid #b69c26;
+  box-sizing: border-box;
+  color: #00132C;
+  font-family: "Avenir Next LT W01 Bold",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  padding: 16px 23px;
+  position: relative;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.buttons:hover,
+.buttons:active {
+  outline: 0;
+}
+
+.buttons:hover {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.buttons:before {
+  background-color: #f6e7d5;
+  content: "";
+  height: calc(100% + 3px);
+  position: absolute;
+  right: -7px;
+  top: -9px;
+  transition: background-color 300ms ease-in;
+  width: 100%;
+  z-index: -1;
+}
+
+.buttons:hover:before {
+  background-color: #f7b054;
+}
+
+@media (min-width: 768px) {
+  .buttons {
+    padding: 16px 32px;
+  }
 }

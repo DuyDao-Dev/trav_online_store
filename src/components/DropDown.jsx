@@ -1,21 +1,30 @@
 import { useState } from "react";
+import { useQuery } from '@tanstack/react-query';
 import ItemsList from "./ItemsList";
+import FetchAll from "./FetchAll";
 
-const DropDown = ({ items }) => {
-  const categories = ["Dairy", "Meat", "Vegetables", "Fruits"];
+const DropDown = () => {
+  const categories = ['pepsi', 'yogurt ', 'cheese', 'salad ', 'fish', 'beef', 'strawberry', 'chicken'];
   const [category, setCategory] = useState("");
+
+  const results = useQuery(['all', category], FetchAll);
+  const items = results?.data ?? [];
 
   return (
     <section>
       <div className="dropdown-content">
         <form>
           <label htmlFor="category">
-            Category
+            Choose a Category!
             <select
               id="dropdown"
               value={category}
-              onChange={(e) => setCategory(e.target.value)}
+              onChange={(e) => {
+                e.preventDefault();
+                setCategory(e.target.value)
+              }}
             >
+              <option>--</option>
               {categories.map((category) => (
                 <option key={category}>
                   {category}
