@@ -1,29 +1,31 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
+import { useState } from "react";
+import { useQuery } from '@tanstack/react-query';
 import ItemsList from "./ItemsList";
+import FetchAll from "./FetchAll";
 
-const DropDown = ({ items }) => {
-  const categories = ["Dairy", "Meat", "Vegetables", "Fruits"];
-  const [category, setCategory] = useState("Dairy");
-  const [itemsToDisplay, setItemsToDisplay] = useState([]);
+const DropDown = () => {
+  const categories = ['pepsi', 'yogurt ', 'cheese', 'salad ', 'fish', 'beef', 'strawberry', 'chicken'];
+  const [category, setCategory] = useState("");
 
-  useEffect(() => {
-    //TODO replace console.log with axios GET request
-      console.log(category);
-      //TODO replace items.filter with axios GET response
-      setItemsToDisplay(items.filter((item) => item.category === category));
-  }, [category]);
+  const results = useQuery(['all', category], FetchAll);
+  const items = results?.data ?? [];
 
   return (
     <section>
       <div className="dropdown-content">
         <form>
           <label htmlFor="category">
-            Category
+            Choose a Category!
             <select
               id="dropdown"
               value={category}
-              onChange={(e) => setCategory(e.target.value)}
+              onChange={(e) => {
+                e.preventDefault();
+                setCategory(e.target.value)
+              }}
             >
+              <option>--</option>
               {categories.map((category) => (
                 <option key={category}>
                   {category}
@@ -33,7 +35,7 @@ const DropDown = ({ items }) => {
           </label>
         </form>
       </div>
-      <ItemsList items={itemsToDisplay}/>
+      <ItemsList items={items}/>
     </section>
   );
 };

@@ -1,0 +1,9002 @@
+[
+ {
+   "unit_id": 1,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 303,
+   "barcode": 9278
+ },
+ {
+   "unit_id": 2,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 112,
+   "barcode": 4973
+ },
+ {
+   "unit_id": 3,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 245,
+   "barcode": 7024
+ },
+ {
+   "unit_id": 4,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 124,
+   "barcode": 2375
+ },
+ {
+   "unit_id": 5,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 27,
+   "barcode": 2747
+ },
+ {
+   "unit_id": 6,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 236,
+   "barcode": 1204
+ },
+ {
+   "unit_id": 7,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 170,
+   "barcode": 5777
+ },
+ {
+   "unit_id": 8,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 131,
+   "barcode": 1758
+ },
+ {
+   "unit_id": 9,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 295,
+   "barcode": 1287
+ },
+ {
+   "unit_id": 10,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 205,
+   "barcode": 7688
+ },
+ {
+   "unit_id": 11,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 105,
+   "barcode": 1776
+ },
+ {
+   "unit_id": 12,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 106,
+   "barcode": 1496
+ },
+ {
+   "unit_id": 13,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 52,
+   "barcode": 8048
+ },
+ {
+   "unit_id": 14,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 207,
+   "barcode": 3298
+ },
+ {
+   "unit_id": 15,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 170,
+   "barcode": 6038
+ },
+ {
+   "unit_id": 16,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 279,
+   "barcode": 3481
+ },
+ {
+   "unit_id": 17,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 31,
+   "barcode": 9516
+ },
+ {
+   "unit_id": 18,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 188,
+   "barcode": 7393
+ },
+ {
+   "unit_id": 19,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 112,
+   "barcode": 8220
+ },
+ {
+   "unit_id": 20,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 149,
+   "barcode": 7531
+ },
+ {
+   "unit_id": 21,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 21,
+   "barcode": 9316
+ },
+ {
+   "unit_id": 22,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 292,
+   "barcode": 9316
+ },
+ {
+   "unit_id": 23,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 332,
+   "barcode": 8200
+ },
+ {
+   "unit_id": 24,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 246,
+   "barcode": 3136
+ },
+ {
+   "unit_id": 25,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 303,
+   "barcode": 2607
+ },
+ {
+   "unit_id": 26,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 171,
+   "barcode": 4143
+ },
+ {
+   "unit_id": 27,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 355,
+   "barcode": 4004
+ },
+ {
+   "unit_id": 28,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 191,
+   "barcode": 3829
+ },
+ {
+   "unit_id": 29,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 112,
+   "barcode": 5218
+ },
+ {
+   "unit_id": 30,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 89,
+   "barcode": 8696
+ },
+ {
+   "unit_id": 31,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 265,
+   "barcode": 3249
+ },
+ {
+   "unit_id": 32,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 252,
+   "barcode": 2284
+ },
+ {
+   "unit_id": 33,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 293,
+   "barcode": 1463
+ },
+ {
+   "unit_id": 34,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 189,
+   "barcode": 4885
+ },
+ {
+   "unit_id": 35,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 279,
+   "barcode": 1190
+ },
+ {
+   "unit_id": 36,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 133,
+   "barcode": 9698
+ },
+ {
+   "unit_id": 37,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 336,
+   "barcode": 2186
+ },
+ {
+   "unit_id": 38,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 190,
+   "barcode": 2658
+ },
+ {
+   "unit_id": 39,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 109,
+   "barcode": 2647
+ },
+ {
+   "unit_id": 40,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 221,
+   "barcode": 8946
+ },
+ {
+   "unit_id": 41,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 74,
+   "barcode": 3172
+ },
+ {
+   "unit_id": 42,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 3,
+   "barcode": 3386
+ },
+ {
+   "unit_id": 43,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 142,
+   "barcode": 7407
+ },
+ {
+   "unit_id": 44,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 265,
+   "barcode": 1518
+ },
+ {
+   "unit_id": 45,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 61,
+   "barcode": 5581
+ },
+ {
+   "unit_id": 46,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 113,
+   "barcode": 3694
+ },
+ {
+   "unit_id": 47,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 60,
+   "barcode": 7196
+ },
+ {
+   "unit_id": 48,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 226,
+   "barcode": 3487
+ },
+ {
+   "unit_id": 49,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 334,
+   "barcode": 8142
+ },
+ {
+   "unit_id": 50,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 64,
+   "barcode": 2245
+ },
+ {
+   "unit_id": 51,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 330,
+   "barcode": 8713
+ },
+ {
+   "unit_id": 52,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 362,
+   "barcode": 9124
+ },
+ {
+   "unit_id": 53,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 346,
+   "barcode": 3957
+ },
+ {
+   "unit_id": 54,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 112,
+   "barcode": 2940
+ },
+ {
+   "unit_id": 55,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 65,
+   "barcode": 7013
+ },
+ {
+   "unit_id": 56,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 237,
+   "barcode": 3822
+ },
+ {
+   "unit_id": 57,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 178,
+   "barcode": 2765
+ },
+ {
+   "unit_id": 58,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 81,
+   "barcode": 8865
+ },
+ {
+   "unit_id": 59,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 279,
+   "barcode": 9556
+ },
+ {
+   "unit_id": 60,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 0,
+   "barcode": 3277
+ },
+ {
+   "unit_id": 61,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 210,
+   "barcode": 7290
+ },
+ {
+   "unit_id": 62,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 331,
+   "barcode": 7309
+ },
+ {
+   "unit_id": 63,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 237,
+   "barcode": 3296
+ },
+ {
+   "unit_id": 64,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 86,
+   "barcode": 6002
+ },
+ {
+   "unit_id": 65,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 92,
+   "barcode": 7977
+ },
+ {
+   "unit_id": 66,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 176,
+   "barcode": 5910
+ },
+ {
+   "unit_id": 67,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 190,
+   "barcode": 4259
+ },
+ {
+   "unit_id": 68,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 254,
+   "barcode": 8498
+ },
+ {
+   "unit_id": 69,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 248,
+   "barcode": 3470
+ },
+ {
+   "unit_id": 70,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 201,
+   "barcode": 3455
+ },
+ {
+   "unit_id": 71,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 75,
+   "barcode": 9450
+ },
+ {
+   "unit_id": 72,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 318,
+   "barcode": 7286
+ },
+ {
+   "unit_id": 73,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 235,
+   "barcode": 7099
+ },
+ {
+   "unit_id": 74,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 280,
+   "barcode": 1321
+ },
+ {
+   "unit_id": 75,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 355,
+   "barcode": 8073
+ },
+ {
+   "unit_id": 76,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 119,
+   "barcode": 7284
+ },
+ {
+   "unit_id": 77,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 356,
+   "barcode": 7881
+ },
+ {
+   "unit_id": 78,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 271,
+   "barcode": 1180
+ },
+ {
+   "unit_id": 79,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 81,
+   "barcode": 6511
+ },
+ {
+   "unit_id": 80,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 184,
+   "barcode": 3483
+ },
+ {
+   "unit_id": 81,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 342,
+   "barcode": 1275
+ },
+ {
+   "unit_id": 82,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 236,
+   "barcode": 3866
+ },
+ {
+   "unit_id": 83,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 210,
+   "barcode": 8259
+ },
+ {
+   "unit_id": 84,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 133,
+   "barcode": 2459
+ },
+ {
+   "unit_id": 85,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 296,
+   "barcode": 3338
+ },
+ {
+   "unit_id": 86,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 191,
+   "barcode": 3759
+ },
+ {
+   "unit_id": 87,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 180,
+   "barcode": 2462
+ },
+ {
+   "unit_id": 88,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 178,
+   "barcode": 6420
+ },
+ {
+   "unit_id": 89,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 77,
+   "barcode": 4732
+ },
+ {
+   "unit_id": 90,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 250,
+   "barcode": 9057
+ },
+ {
+   "unit_id": 91,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 272,
+   "barcode": 6948
+ },
+ {
+   "unit_id": 92,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 144,
+   "barcode": 5830
+ },
+ {
+   "unit_id": 93,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 159,
+   "barcode": 8241
+ },
+ {
+   "unit_id": 94,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 117,
+   "barcode": 4196
+ },
+ {
+   "unit_id": 95,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 364,
+   "barcode": 3789
+ },
+ {
+   "unit_id": 96,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 284,
+   "barcode": 2995
+ },
+ {
+   "unit_id": 97,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 308,
+   "barcode": 8075
+ },
+ {
+   "unit_id": 98,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 153,
+   "barcode": 7343
+ },
+ {
+   "unit_id": 99,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 345,
+   "barcode": 8924
+ },
+ {
+   "unit_id": 100,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 210,
+   "barcode": 5217
+ },
+ {
+   "unit_id": 101,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 253,
+   "barcode": 6059
+ },
+ {
+   "unit_id": 102,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 246,
+   "barcode": 7745
+ },
+ {
+   "unit_id": 103,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 241,
+   "barcode": 4481
+ },
+ {
+   "unit_id": 104,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 316,
+   "barcode": 6319
+ },
+ {
+   "unit_id": 105,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 2,
+   "barcode": 5921
+ },
+ {
+   "unit_id": 106,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 240,
+   "barcode": 2596
+ },
+ {
+   "unit_id": 107,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 197,
+   "barcode": 5998
+ },
+ {
+   "unit_id": 108,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 147,
+   "barcode": 9970
+ },
+ {
+   "unit_id": 109,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 286,
+   "barcode": 9232
+ },
+ {
+   "unit_id": 110,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 75,
+   "barcode": 9594
+ },
+ {
+   "unit_id": 111,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 165,
+   "barcode": 3541
+ },
+ {
+   "unit_id": 112,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 151,
+   "barcode": 9705
+ },
+ {
+   "unit_id": 113,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 62,
+   "barcode": 3813
+ },
+ {
+   "unit_id": 114,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 327,
+   "barcode": 4074
+ },
+ {
+   "unit_id": 115,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 152,
+   "barcode": 5039
+ },
+ {
+   "unit_id": 116,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 362,
+   "barcode": 6222
+ },
+ {
+   "unit_id": 117,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 70,
+   "barcode": 3256
+ },
+ {
+   "unit_id": 118,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 169,
+   "barcode": 3123
+ },
+ {
+   "unit_id": 119,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 191,
+   "barcode": 1622
+ },
+ {
+   "unit_id": 120,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 277,
+   "barcode": 6388
+ },
+ {
+   "unit_id": 121,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 72,
+   "barcode": 2871
+ },
+ {
+   "unit_id": 122,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 56,
+   "barcode": 5108
+ },
+ {
+   "unit_id": 123,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 65,
+   "barcode": 6305
+ },
+ {
+   "unit_id": 124,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 144,
+   "barcode": 2073
+ },
+ {
+   "unit_id": 125,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 152,
+   "barcode": 5510
+ },
+ {
+   "unit_id": 126,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 108,
+   "barcode": 5460
+ },
+ {
+   "unit_id": 127,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 68,
+   "barcode": 4063
+ },
+ {
+   "unit_id": 128,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 241,
+   "barcode": 3470
+ },
+ {
+   "unit_id": 129,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 41,
+   "barcode": 8647
+ },
+ {
+   "unit_id": 130,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 311,
+   "barcode": 2476
+ },
+ {
+   "unit_id": 131,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 141,
+   "barcode": 1474
+ },
+ {
+   "unit_id": 132,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 222,
+   "barcode": 2172
+ },
+ {
+   "unit_id": 133,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 306,
+   "barcode": 7319
+ },
+ {
+   "unit_id": 134,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 118,
+   "barcode": 8876
+ },
+ {
+   "unit_id": 135,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 244,
+   "barcode": 1512
+ },
+ {
+   "unit_id": 136,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 9,
+   "barcode": 5038
+ },
+ {
+   "unit_id": 137,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 17,
+   "barcode": 4016
+ },
+ {
+   "unit_id": 138,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 253,
+   "barcode": 7764
+ },
+ {
+   "unit_id": 139,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 332,
+   "barcode": 8789
+ },
+ {
+   "unit_id": 140,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 184,
+   "barcode": 5569
+ },
+ {
+   "unit_id": 141,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 172,
+   "barcode": 5819
+ },
+ {
+   "unit_id": 142,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 182,
+   "barcode": 7483
+ },
+ {
+   "unit_id": 143,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 131,
+   "barcode": 1752
+ },
+ {
+   "unit_id": 144,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 143,
+   "barcode": 8830
+ },
+ {
+   "unit_id": 145,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 34,
+   "barcode": 2841
+ },
+ {
+   "unit_id": 146,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 111,
+   "barcode": 9719
+ },
+ {
+   "unit_id": 147,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 267,
+   "barcode": 8445
+ },
+ {
+   "unit_id": 148,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 345,
+   "barcode": 2609
+ },
+ {
+   "unit_id": 149,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 363,
+   "barcode": 1067
+ },
+ {
+   "unit_id": 150,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 328,
+   "barcode": 9252
+ },
+ {
+   "unit_id": 151,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 183,
+   "barcode": 1046
+ },
+ {
+   "unit_id": 152,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 150,
+   "barcode": 5053
+ },
+ {
+   "unit_id": 153,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 292,
+   "barcode": 3258
+ },
+ {
+   "unit_id": 154,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 137,
+   "barcode": 3646
+ },
+ {
+   "unit_id": 155,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 274,
+   "barcode": 3978
+ },
+ {
+   "unit_id": 156,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 205,
+   "barcode": 9104
+ },
+ {
+   "unit_id": 157,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 266,
+   "barcode": 6371
+ },
+ {
+   "unit_id": 158,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 355,
+   "barcode": 7789
+ },
+ {
+   "unit_id": 159,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 31,
+   "barcode": 3272
+ },
+ {
+   "unit_id": 160,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 329,
+   "barcode": 3644
+ },
+ {
+   "unit_id": 161,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 313,
+   "barcode": 7158
+ },
+ {
+   "unit_id": 162,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 237,
+   "barcode": 3641
+ },
+ {
+   "unit_id": 163,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 333,
+   "barcode": 3887
+ },
+ {
+   "unit_id": 164,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 179,
+   "barcode": 3690
+ },
+ {
+   "unit_id": 165,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 314,
+   "barcode": 4853
+ },
+ {
+   "unit_id": 166,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 175,
+   "barcode": 9572
+ },
+ {
+   "unit_id": 167,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 117,
+   "barcode": 4097
+ },
+ {
+   "unit_id": 168,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 337,
+   "barcode": 9034
+ },
+ {
+   "unit_id": 169,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 61,
+   "barcode": 9252
+ },
+ {
+   "unit_id": 170,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 122,
+   "barcode": 2947
+ },
+ {
+   "unit_id": 171,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 233,
+   "barcode": 1074
+ },
+ {
+   "unit_id": 172,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 71,
+   "barcode": 3829
+ },
+ {
+   "unit_id": 173,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 92,
+   "barcode": 5954
+ },
+ {
+   "unit_id": 174,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 138,
+   "barcode": 5874
+ },
+ {
+   "unit_id": 175,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 250,
+   "barcode": 5998
+ },
+ {
+   "unit_id": 176,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 348,
+   "barcode": 9154
+ },
+ {
+   "unit_id": 177,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 132,
+   "barcode": 2912
+ },
+ {
+   "unit_id": 178,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 221,
+   "barcode": 6458
+ },
+ {
+   "unit_id": 179,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 105,
+   "barcode": 6667
+ },
+ {
+   "unit_id": 180,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 256,
+   "barcode": 8064
+ },
+ {
+   "unit_id": 181,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 158,
+   "barcode": 2155
+ },
+ {
+   "unit_id": 182,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 0,
+   "barcode": 3955
+ },
+ {
+   "unit_id": 183,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 285,
+   "barcode": 2071
+ },
+ {
+   "unit_id": 184,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 30,
+   "barcode": 6514
+ },
+ {
+   "unit_id": 185,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 183,
+   "barcode": 5127
+ },
+ {
+   "unit_id": 186,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 41,
+   "barcode": 6593
+ },
+ {
+   "unit_id": 187,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 65,
+   "barcode": 1933
+ },
+ {
+   "unit_id": 188,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 272,
+   "barcode": 9728
+ },
+ {
+   "unit_id": 189,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 310,
+   "barcode": 2570
+ },
+ {
+   "unit_id": 190,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 99,
+   "barcode": 1410
+ },
+ {
+   "unit_id": 191,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 312,
+   "barcode": 1971
+ },
+ {
+   "unit_id": 192,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 98,
+   "barcode": 6058
+ },
+ {
+   "unit_id": 193,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 294,
+   "barcode": 1372
+ },
+ {
+   "unit_id": 194,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 161,
+   "barcode": 7883
+ },
+ {
+   "unit_id": 195,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 108,
+   "barcode": 2074
+ },
+ {
+   "unit_id": 196,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 187,
+   "barcode": 9208
+ },
+ {
+   "unit_id": 197,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 356,
+   "barcode": 5517
+ },
+ {
+   "unit_id": 198,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 94,
+   "barcode": 2471
+ },
+ {
+   "unit_id": 199,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 338,
+   "barcode": 7315
+ },
+ {
+   "unit_id": 200,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 244,
+   "barcode": 9640
+ },
+ {
+   "unit_id": 201,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 112,
+   "barcode": 8639
+ },
+ {
+   "unit_id": 202,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 196,
+   "barcode": 3931
+ },
+ {
+   "unit_id": 203,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 226,
+   "barcode": 7327
+ },
+ {
+   "unit_id": 204,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 128,
+   "barcode": 3517
+ },
+ {
+   "unit_id": 205,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 165,
+   "barcode": 7603
+ },
+ {
+   "unit_id": 206,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 364,
+   "barcode": 4882
+ },
+ {
+   "unit_id": 207,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 47,
+   "barcode": 5926
+ },
+ {
+   "unit_id": 208,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 26,
+   "barcode": 7706
+ },
+ {
+   "unit_id": 209,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 235,
+   "barcode": 6514
+ },
+ {
+   "unit_id": 210,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 158,
+   "barcode": 6899
+ },
+ {
+   "unit_id": 211,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 248,
+   "barcode": 7626
+ },
+ {
+   "unit_id": 212,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 201,
+   "barcode": 8624
+ },
+ {
+   "unit_id": 213,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 42,
+   "barcode": 8371
+ },
+ {
+   "unit_id": 214,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 139,
+   "barcode": 3633
+ },
+ {
+   "unit_id": 215,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 90,
+   "barcode": 8679
+ },
+ {
+   "unit_id": 216,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 331,
+   "barcode": 7137
+ },
+ {
+   "unit_id": 217,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 67,
+   "barcode": 9478
+ },
+ {
+   "unit_id": 218,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 112,
+   "barcode": 6091
+ },
+ {
+   "unit_id": 219,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 358,
+   "barcode": 3283
+ },
+ {
+   "unit_id": 220,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 40,
+   "barcode": 7622
+ },
+ {
+   "unit_id": 221,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 252,
+   "barcode": 8478
+ },
+ {
+   "unit_id": 222,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 230,
+   "barcode": 6837
+ },
+ {
+   "unit_id": 223,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 178,
+   "barcode": 3992
+ },
+ {
+   "unit_id": 224,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 207,
+   "barcode": 4474
+ },
+ {
+   "unit_id": 225,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 123,
+   "barcode": 2361
+ },
+ {
+   "unit_id": 226,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 37,
+   "barcode": 6378
+ },
+ {
+   "unit_id": 227,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 334,
+   "barcode": 1388
+ },
+ {
+   "unit_id": 228,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 223,
+   "barcode": 3171
+ },
+ {
+   "unit_id": 229,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 93,
+   "barcode": 6475
+ },
+ {
+   "unit_id": 230,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 108,
+   "barcode": 2124
+ },
+ {
+   "unit_id": 231,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 72,
+   "barcode": 1446
+ },
+ {
+   "unit_id": 232,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 244,
+   "barcode": 6743
+ },
+ {
+   "unit_id": 233,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 88,
+   "barcode": 3388
+ },
+ {
+   "unit_id": 234,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 207,
+   "barcode": 4881
+ },
+ {
+   "unit_id": 235,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 14,
+   "barcode": 5467
+ },
+ {
+   "unit_id": 236,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 79,
+   "barcode": 1582
+ },
+ {
+   "unit_id": 237,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 97,
+   "barcode": 2516
+ },
+ {
+   "unit_id": 238,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 292,
+   "barcode": 7606
+ },
+ {
+   "unit_id": 239,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 242,
+   "barcode": 3198
+ },
+ {
+   "unit_id": 240,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 275,
+   "barcode": 1038
+ },
+ {
+   "unit_id": 241,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 198,
+   "barcode": 1319
+ },
+ {
+   "unit_id": 242,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 79,
+   "barcode": 3393
+ },
+ {
+   "unit_id": 243,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 218,
+   "barcode": 5705
+ },
+ {
+   "unit_id": 244,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 232,
+   "barcode": 1420
+ },
+ {
+   "unit_id": 245,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 267,
+   "barcode": 1496
+ },
+ {
+   "unit_id": 246,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 191,
+   "barcode": 1494
+ },
+ {
+   "unit_id": 247,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 316,
+   "barcode": 4605
+ },
+ {
+   "unit_id": 248,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 279,
+   "barcode": 1343
+ },
+ {
+   "unit_id": 249,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 246,
+   "barcode": 1915
+ },
+ {
+   "unit_id": 250,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 129,
+   "barcode": 7960
+ },
+ {
+   "unit_id": 251,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 285,
+   "barcode": 3998
+ },
+ {
+   "unit_id": 252,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 349,
+   "barcode": 3422
+ },
+ {
+   "unit_id": 253,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 117,
+   "barcode": 4905
+ },
+ {
+   "unit_id": 254,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 326,
+   "barcode": 7914
+ },
+ {
+   "unit_id": 255,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 353,
+   "barcode": 8010
+ },
+ {
+   "unit_id": 256,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 64,
+   "barcode": 4966
+ },
+ {
+   "unit_id": 257,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 185,
+   "barcode": 8647
+ },
+ {
+   "unit_id": 258,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 75,
+   "barcode": 8286
+ },
+ {
+   "unit_id": 259,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 311,
+   "barcode": 5159
+ },
+ {
+   "unit_id": 260,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 334,
+   "barcode": 1827
+ },
+ {
+   "unit_id": 261,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 166,
+   "barcode": 4904
+ },
+ {
+   "unit_id": 262,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 3,
+   "barcode": 9685
+ },
+ {
+   "unit_id": 263,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 48,
+   "barcode": 2789
+ },
+ {
+   "unit_id": 264,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 272,
+   "barcode": 3573
+ },
+ {
+   "unit_id": 265,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 285,
+   "barcode": 9000
+ },
+ {
+   "unit_id": 266,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 330,
+   "barcode": 5433
+ },
+ {
+   "unit_id": 267,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 31,
+   "barcode": 7307
+ },
+ {
+   "unit_id": 268,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 39,
+   "barcode": 7997
+ },
+ {
+   "unit_id": 269,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 301,
+   "barcode": 9125
+ },
+ {
+   "unit_id": 270,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 322,
+   "barcode": 2276
+ },
+ {
+   "unit_id": 271,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 145,
+   "barcode": 1606
+ },
+ {
+   "unit_id": 272,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 221,
+   "barcode": 2933
+ },
+ {
+   "unit_id": 273,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 160,
+   "barcode": 8470
+ },
+ {
+   "unit_id": 274,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 169,
+   "barcode": 3712
+ },
+ {
+   "unit_id": 275,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 14,
+   "barcode": 7482
+ },
+ {
+   "unit_id": 276,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 48,
+   "barcode": 7355
+ },
+ {
+   "unit_id": 277,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 88,
+   "barcode": 3761
+ },
+ {
+   "unit_id": 278,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 323,
+   "barcode": 8662
+ },
+ {
+   "unit_id": 279,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 101,
+   "barcode": 9486
+ },
+ {
+   "unit_id": 280,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 252,
+   "barcode": 4449
+ },
+ {
+   "unit_id": 281,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 177,
+   "barcode": 2732
+ },
+ {
+   "unit_id": 282,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 272,
+   "barcode": 3936
+ },
+ {
+   "unit_id": 283,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 194,
+   "barcode": 3485
+ },
+ {
+   "unit_id": 284,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 71,
+   "barcode": 7736
+ },
+ {
+   "unit_id": 285,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 16,
+   "barcode": 4428
+ },
+ {
+   "unit_id": 286,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 308,
+   "barcode": 8451
+ },
+ {
+   "unit_id": 287,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 69,
+   "barcode": 7065
+ },
+ {
+   "unit_id": 288,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 203,
+   "barcode": 6352
+ },
+ {
+   "unit_id": 289,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 53,
+   "barcode": 2962
+ },
+ {
+   "unit_id": 290,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 173,
+   "barcode": 8527
+ },
+ {
+   "unit_id": 291,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 257,
+   "barcode": 8924
+ },
+ {
+   "unit_id": 292,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 289,
+   "barcode": 8286
+ },
+ {
+   "unit_id": 293,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 238,
+   "barcode": 6156
+ },
+ {
+   "unit_id": 294,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 327,
+   "barcode": 9044
+ },
+ {
+   "unit_id": 295,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 179,
+   "barcode": 2902
+ },
+ {
+   "unit_id": 296,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 346,
+   "barcode": 2246
+ },
+ {
+   "unit_id": 297,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 267,
+   "barcode": 9927
+ },
+ {
+   "unit_id": 298,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 287,
+   "barcode": 1482
+ },
+ {
+   "unit_id": 299,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 71,
+   "barcode": 9485
+ },
+ {
+   "unit_id": 300,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 317,
+   "barcode": 7897
+ },
+ {
+   "unit_id": 301,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 316,
+   "barcode": 8200
+ },
+ {
+   "unit_id": 302,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 187,
+   "barcode": 1173
+ },
+ {
+   "unit_id": 303,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 354,
+   "barcode": 2021
+ },
+ {
+   "unit_id": 304,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 132,
+   "barcode": 5975
+ },
+ {
+   "unit_id": 305,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 10,
+   "barcode": 6685
+ },
+ {
+   "unit_id": 306,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 302,
+   "barcode": 5450
+ },
+ {
+   "unit_id": 307,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 83,
+   "barcode": 9561
+ },
+ {
+   "unit_id": 308,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 48,
+   "barcode": 2915
+ },
+ {
+   "unit_id": 309,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 216,
+   "barcode": 2192
+ },
+ {
+   "unit_id": 310,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 110,
+   "barcode": 6411
+ },
+ {
+   "unit_id": 311,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 249,
+   "barcode": 4244
+ },
+ {
+   "unit_id": 312,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 43,
+   "barcode": 2909
+ },
+ {
+   "unit_id": 313,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 293,
+   "barcode": 3852
+ },
+ {
+   "unit_id": 314,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 175,
+   "barcode": 4252
+ },
+ {
+   "unit_id": 315,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 102,
+   "barcode": 6610
+ },
+ {
+   "unit_id": 316,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 140,
+   "barcode": 6257
+ },
+ {
+   "unit_id": 317,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 152,
+   "barcode": 2074
+ },
+ {
+   "unit_id": 318,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 30,
+   "barcode": 7292
+ },
+ {
+   "unit_id": 319,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 116,
+   "barcode": 6497
+ },
+ {
+   "unit_id": 320,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 12,
+   "barcode": 6214
+ },
+ {
+   "unit_id": 321,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 352,
+   "barcode": 9703
+ },
+ {
+   "unit_id": 322,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 217,
+   "barcode": 9241
+ },
+ {
+   "unit_id": 323,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 274,
+   "barcode": 3742
+ },
+ {
+   "unit_id": 324,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 265,
+   "barcode": 7069
+ },
+ {
+   "unit_id": 325,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 242,
+   "barcode": 1834
+ },
+ {
+   "unit_id": 326,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 323,
+   "barcode": 1529
+ },
+ {
+   "unit_id": 327,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 185,
+   "barcode": 8749
+ },
+ {
+   "unit_id": 328,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 315,
+   "barcode": 6945
+ },
+ {
+   "unit_id": 329,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 242,
+   "barcode": 5262
+ },
+ {
+   "unit_id": 330,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 259,
+   "barcode": 6055
+ },
+ {
+   "unit_id": 331,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 318,
+   "barcode": 8832
+ },
+ {
+   "unit_id": 332,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 310,
+   "barcode": 2288
+ },
+ {
+   "unit_id": 333,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 254,
+   "barcode": 2635
+ },
+ {
+   "unit_id": 334,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 293,
+   "barcode": 1874
+ },
+ {
+   "unit_id": 335,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 212,
+   "barcode": 4459
+ },
+ {
+   "unit_id": 336,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 140,
+   "barcode": 5767
+ },
+ {
+   "unit_id": 337,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 13,
+   "barcode": 9954
+ },
+ {
+   "unit_id": 338,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 24,
+   "barcode": 5837
+ },
+ {
+   "unit_id": 339,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 21,
+   "barcode": 5231
+ },
+ {
+   "unit_id": 340,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 42,
+   "barcode": 1158
+ },
+ {
+   "unit_id": 341,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 113,
+   "barcode": 7427
+ },
+ {
+   "unit_id": 342,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 146,
+   "barcode": 8712
+ },
+ {
+   "unit_id": 343,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 97,
+   "barcode": 7369
+ },
+ {
+   "unit_id": 344,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 190,
+   "barcode": 5989
+ },
+ {
+   "unit_id": 345,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 114,
+   "barcode": 3443
+ },
+ {
+   "unit_id": 346,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 15,
+   "barcode": 8078
+ },
+ {
+   "unit_id": 347,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 82,
+   "barcode": 6429
+ },
+ {
+   "unit_id": 348,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 192,
+   "barcode": 1489
+ },
+ {
+   "unit_id": 349,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 225,
+   "barcode": 8287
+ },
+ {
+   "unit_id": 350,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 25,
+   "barcode": 8496
+ },
+ {
+   "unit_id": 351,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 124,
+   "barcode": 7544
+ },
+ {
+   "unit_id": 352,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 183,
+   "barcode": 3946
+ },
+ {
+   "unit_id": 353,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 58,
+   "barcode": 9492
+ },
+ {
+   "unit_id": 354,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 339,
+   "barcode": 9218
+ },
+ {
+   "unit_id": 355,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 311,
+   "barcode": 3091
+ },
+ {
+   "unit_id": 356,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 191,
+   "barcode": 7639
+ },
+ {
+   "unit_id": 357,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 201,
+   "barcode": 8314
+ },
+ {
+   "unit_id": 358,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 223,
+   "barcode": 3970
+ },
+ {
+   "unit_id": 359,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 294,
+   "barcode": 3408
+ },
+ {
+   "unit_id": 360,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 143,
+   "barcode": 1721
+ },
+ {
+   "unit_id": 361,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 22,
+   "barcode": 9453
+ },
+ {
+   "unit_id": 362,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 2,
+   "barcode": 4865
+ },
+ {
+   "unit_id": 363,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 293,
+   "barcode": 6297
+ },
+ {
+   "unit_id": 364,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 251,
+   "barcode": 9402
+ },
+ {
+   "unit_id": 365,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 223,
+   "barcode": 1878
+ },
+ {
+   "unit_id": 366,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 70,
+   "barcode": 4728
+ },
+ {
+   "unit_id": 367,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 331,
+   "barcode": 2718
+ },
+ {
+   "unit_id": 368,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 176,
+   "barcode": 2570
+ },
+ {
+   "unit_id": 369,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 8,
+   "barcode": 1820
+ },
+ {
+   "unit_id": 370,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 36,
+   "barcode": 2398
+ },
+ {
+   "unit_id": 371,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 356,
+   "barcode": 2414
+ },
+ {
+   "unit_id": 372,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 327,
+   "barcode": 9494
+ },
+ {
+   "unit_id": 373,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 254,
+   "barcode": 3781
+ },
+ {
+   "unit_id": 374,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 166,
+   "barcode": 5364
+ },
+ {
+   "unit_id": 375,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 293,
+   "barcode": 4111
+ },
+ {
+   "unit_id": 376,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 304,
+   "barcode": 5154
+ },
+ {
+   "unit_id": 377,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 303,
+   "barcode": 3111
+ },
+ {
+   "unit_id": 378,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 93,
+   "barcode": 9536
+ },
+ {
+   "unit_id": 379,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 156,
+   "barcode": 9844
+ },
+ {
+   "unit_id": 380,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 207,
+   "barcode": 4268
+ },
+ {
+   "unit_id": 381,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 351,
+   "barcode": 7166
+ },
+ {
+   "unit_id": 382,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 15,
+   "barcode": 9769
+ },
+ {
+   "unit_id": 383,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 6,
+   "barcode": 4172
+ },
+ {
+   "unit_id": 384,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 341,
+   "barcode": 2122
+ },
+ {
+   "unit_id": 385,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 147,
+   "barcode": 7130
+ },
+ {
+   "unit_id": 386,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 279,
+   "barcode": 6043
+ },
+ {
+   "unit_id": 387,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 353,
+   "barcode": 9362
+ },
+ {
+   "unit_id": 388,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 198,
+   "barcode": 2954
+ },
+ {
+   "unit_id": 389,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 353,
+   "barcode": 6662
+ },
+ {
+   "unit_id": 390,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 90,
+   "barcode": 6759
+ },
+ {
+   "unit_id": 391,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 25,
+   "barcode": 2802
+ },
+ {
+   "unit_id": 392,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 75,
+   "barcode": 7569
+ },
+ {
+   "unit_id": 393,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 7,
+   "barcode": 3681
+ },
+ {
+   "unit_id": 394,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 152,
+   "barcode": 9268
+ },
+ {
+   "unit_id": 395,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 273,
+   "barcode": 8358
+ },
+ {
+   "unit_id": 396,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 276,
+   "barcode": 1238
+ },
+ {
+   "unit_id": 397,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 267,
+   "barcode": 7010
+ },
+ {
+   "unit_id": 398,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 270,
+   "barcode": 4592
+ },
+ {
+   "unit_id": 399,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 222,
+   "barcode": 4917
+ },
+ {
+   "unit_id": 400,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 21,
+   "barcode": 1343
+ },
+ {
+   "unit_id": 401,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 98,
+   "barcode": 6911
+ },
+ {
+   "unit_id": 402,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 236,
+   "barcode": 2508
+ },
+ {
+   "unit_id": 403,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 273,
+   "barcode": 8894
+ },
+ {
+   "unit_id": 404,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 245,
+   "barcode": 4885
+ },
+ {
+   "unit_id": 405,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 137,
+   "barcode": 8425
+ },
+ {
+   "unit_id": 406,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 330,
+   "barcode": 7955
+ },
+ {
+   "unit_id": 407,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 296,
+   "barcode": 3720
+ },
+ {
+   "unit_id": 408,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 185,
+   "barcode": 5944
+ },
+ {
+   "unit_id": 409,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 359,
+   "barcode": 2486
+ },
+ {
+   "unit_id": 410,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 359,
+   "barcode": 2448
+ },
+ {
+   "unit_id": 411,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 225,
+   "barcode": 7702
+ },
+ {
+   "unit_id": 412,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 91,
+   "barcode": 4836
+ },
+ {
+   "unit_id": 413,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 295,
+   "barcode": 5955
+ },
+ {
+   "unit_id": 414,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 102,
+   "barcode": 5457
+ },
+ {
+   "unit_id": 415,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 234,
+   "barcode": 7975
+ },
+ {
+   "unit_id": 416,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 217,
+   "barcode": 6586
+ },
+ {
+   "unit_id": 417,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 106,
+   "barcode": 2851
+ },
+ {
+   "unit_id": 418,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 82,
+   "barcode": 3541
+ },
+ {
+   "unit_id": 419,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 115,
+   "barcode": 9749
+ },
+ {
+   "unit_id": 420,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 161,
+   "barcode": 4396
+ },
+ {
+   "unit_id": 421,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 301,
+   "barcode": 3464
+ },
+ {
+   "unit_id": 422,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 176,
+   "barcode": 5383
+ },
+ {
+   "unit_id": 423,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 16,
+   "barcode": 7233
+ },
+ {
+   "unit_id": 424,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 251,
+   "barcode": 5118
+ },
+ {
+   "unit_id": 425,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 121,
+   "barcode": 6445
+ },
+ {
+   "unit_id": 426,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 43,
+   "barcode": 5955
+ },
+ {
+   "unit_id": 427,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 238,
+   "barcode": 4872
+ },
+ {
+   "unit_id": 428,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 240,
+   "barcode": 8398
+ },
+ {
+   "unit_id": 429,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 140,
+   "barcode": 8882
+ },
+ {
+   "unit_id": 430,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 53,
+   "barcode": 2250
+ },
+ {
+   "unit_id": 431,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 351,
+   "barcode": 5342
+ },
+ {
+   "unit_id": 432,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 104,
+   "barcode": 8627
+ },
+ {
+   "unit_id": 433,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 70,
+   "barcode": 9173
+ },
+ {
+   "unit_id": 434,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 292,
+   "barcode": 5940
+ },
+ {
+   "unit_id": 435,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 184,
+   "barcode": 6860
+ },
+ {
+   "unit_id": 436,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 84,
+   "barcode": 3388
+ },
+ {
+   "unit_id": 437,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 282,
+   "barcode": 3503
+ },
+ {
+   "unit_id": 438,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 274,
+   "barcode": 8324
+ },
+ {
+   "unit_id": 439,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 36,
+   "barcode": 5426
+ },
+ {
+   "unit_id": 440,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 186,
+   "barcode": 1123
+ },
+ {
+   "unit_id": 441,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 173,
+   "barcode": 7376
+ },
+ {
+   "unit_id": 442,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 249,
+   "barcode": 9602
+ },
+ {
+   "unit_id": 443,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 136,
+   "barcode": 1875
+ },
+ {
+   "unit_id": 444,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 176,
+   "barcode": 3032
+ },
+ {
+   "unit_id": 445,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 219,
+   "barcode": 8538
+ },
+ {
+   "unit_id": 446,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 359,
+   "barcode": 7030
+ },
+ {
+   "unit_id": 447,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 186,
+   "barcode": 5610
+ },
+ {
+   "unit_id": 448,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 192,
+   "barcode": 4040
+ },
+ {
+   "unit_id": 449,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 6,
+   "barcode": 6933
+ },
+ {
+   "unit_id": 450,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 262,
+   "barcode": 9467
+ },
+ {
+   "unit_id": 451,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 216,
+   "barcode": 1815
+ },
+ {
+   "unit_id": 452,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 209,
+   "barcode": 4282
+ },
+ {
+   "unit_id": 453,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 294,
+   "barcode": 6543
+ },
+ {
+   "unit_id": 454,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 68,
+   "barcode": 7793
+ },
+ {
+   "unit_id": 455,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 7,
+   "barcode": 2873
+ },
+ {
+   "unit_id": 456,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 84,
+   "barcode": 6651
+ },
+ {
+   "unit_id": 457,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 145,
+   "barcode": 4210
+ },
+ {
+   "unit_id": 458,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 124,
+   "barcode": 3458
+ },
+ {
+   "unit_id": 459,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 58,
+   "barcode": 1040
+ },
+ {
+   "unit_id": 460,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 288,
+   "barcode": 9437
+ },
+ {
+   "unit_id": 461,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 52,
+   "barcode": 9401
+ },
+ {
+   "unit_id": 462,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 232,
+   "barcode": 2420
+ },
+ {
+   "unit_id": 463,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 34,
+   "barcode": 9806
+ },
+ {
+   "unit_id": 464,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 114,
+   "barcode": 3708
+ },
+ {
+   "unit_id": 465,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 36,
+   "barcode": 6797
+ },
+ {
+   "unit_id": 466,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 279,
+   "barcode": 4758
+ },
+ {
+   "unit_id": 467,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 325,
+   "barcode": 1621
+ },
+ {
+   "unit_id": 468,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 101,
+   "barcode": 5916
+ },
+ {
+   "unit_id": 469,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 339,
+   "barcode": 3978
+ },
+ {
+   "unit_id": 470,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 342,
+   "barcode": 7955
+ },
+ {
+   "unit_id": 471,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 43,
+   "barcode": 4470
+ },
+ {
+   "unit_id": 472,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 334,
+   "barcode": 9500
+ },
+ {
+   "unit_id": 473,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 159,
+   "barcode": 8372
+ },
+ {
+   "unit_id": 474,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 130,
+   "barcode": 6325
+ },
+ {
+   "unit_id": 475,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 26,
+   "barcode": 7578
+ },
+ {
+   "unit_id": 476,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 240,
+   "barcode": 3168
+ },
+ {
+   "unit_id": 477,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 84,
+   "barcode": 5055
+ },
+ {
+   "unit_id": 478,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 17,
+   "barcode": 9939
+ },
+ {
+   "unit_id": 479,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 117,
+   "barcode": 8704
+ },
+ {
+   "unit_id": 480,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 325,
+   "barcode": 5799
+ },
+ {
+   "unit_id": 481,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 179,
+   "barcode": 3479
+ },
+ {
+   "unit_id": 482,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 302,
+   "barcode": 6896
+ },
+ {
+   "unit_id": 483,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 295,
+   "barcode": 1579
+ },
+ {
+   "unit_id": 484,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 66,
+   "barcode": 3128
+ },
+ {
+   "unit_id": 485,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 277,
+   "barcode": 1723
+ },
+ {
+   "unit_id": 486,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 280,
+   "barcode": 6599
+ },
+ {
+   "unit_id": 487,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 54,
+   "barcode": 8549
+ },
+ {
+   "unit_id": 488,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 300,
+   "barcode": 2442
+ },
+ {
+   "unit_id": 489,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 125,
+   "barcode": 6759
+ },
+ {
+   "unit_id": 490,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 288,
+   "barcode": 4723
+ },
+ {
+   "unit_id": 491,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 335,
+   "barcode": 4479
+ },
+ {
+   "unit_id": 492,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 178,
+   "barcode": 6771
+ },
+ {
+   "unit_id": 493,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 92,
+   "barcode": 8366
+ },
+ {
+   "unit_id": 494,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 166,
+   "barcode": 1852
+ },
+ {
+   "unit_id": 495,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 279,
+   "barcode": 5128
+ },
+ {
+   "unit_id": 496,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 178,
+   "barcode": 1663
+ },
+ {
+   "unit_id": 497,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 335,
+   "barcode": 8609
+ },
+ {
+   "unit_id": 498,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 101,
+   "barcode": 8761
+ },
+ {
+   "unit_id": 499,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 240,
+   "barcode": 1250
+ },
+ {
+   "unit_id": 500,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 39,
+   "barcode": 2743
+ },
+ {
+   "unit_id": 501,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 35,
+   "barcode": 5838
+ },
+ {
+   "unit_id": 502,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 181,
+   "barcode": 2986
+ },
+ {
+   "unit_id": 503,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 346,
+   "barcode": 3108
+ },
+ {
+   "unit_id": 504,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 308,
+   "barcode": 9371
+ },
+ {
+   "unit_id": 505,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 193,
+   "barcode": 7668
+ },
+ {
+   "unit_id": 506,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 2,
+   "barcode": 8960
+ },
+ {
+   "unit_id": 507,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 141,
+   "barcode": 9467
+ },
+ {
+   "unit_id": 508,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 58,
+   "barcode": 5667
+ },
+ {
+   "unit_id": 509,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 23,
+   "barcode": 6868
+ },
+ {
+   "unit_id": 510,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 180,
+   "barcode": 6481
+ },
+ {
+   "unit_id": 511,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 109,
+   "barcode": 8182
+ },
+ {
+   "unit_id": 512,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 235,
+   "barcode": 2961
+ },
+ {
+   "unit_id": 513,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 1,
+   "barcode": 3579
+ },
+ {
+   "unit_id": 514,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 361,
+   "barcode": 1200
+ },
+ {
+   "unit_id": 515,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 334,
+   "barcode": 3857
+ },
+ {
+   "unit_id": 516,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 243,
+   "barcode": 7248
+ },
+ {
+   "unit_id": 517,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 255,
+   "barcode": 6971
+ },
+ {
+   "unit_id": 518,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 290,
+   "barcode": 7484
+ },
+ {
+   "unit_id": 519,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 189,
+   "barcode": 1865
+ },
+ {
+   "unit_id": 520,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 44,
+   "barcode": 4181
+ },
+ {
+   "unit_id": 521,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 227,
+   "barcode": 7049
+ },
+ {
+   "unit_id": 522,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 296,
+   "barcode": 1306
+ },
+ {
+   "unit_id": 523,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 63,
+   "barcode": 5247
+ },
+ {
+   "unit_id": 524,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 315,
+   "barcode": 5232
+ },
+ {
+   "unit_id": 525,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 360,
+   "barcode": 1252
+ },
+ {
+   "unit_id": 526,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 8,
+   "barcode": 8882
+ },
+ {
+   "unit_id": 527,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 7,
+   "barcode": 2486
+ },
+ {
+   "unit_id": 528,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 91,
+   "barcode": 1989
+ },
+ {
+   "unit_id": 529,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 354,
+   "barcode": 8941
+ },
+ {
+   "unit_id": 530,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 173,
+   "barcode": 9693
+ },
+ {
+   "unit_id": 531,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 240,
+   "barcode": 1613
+ },
+ {
+   "unit_id": 532,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 248,
+   "barcode": 8821
+ },
+ {
+   "unit_id": 533,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 264,
+   "barcode": 3216
+ },
+ {
+   "unit_id": 534,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 165,
+   "barcode": 7891
+ },
+ {
+   "unit_id": 535,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 330,
+   "barcode": 7309
+ },
+ {
+   "unit_id": 536,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 190,
+   "barcode": 9270
+ },
+ {
+   "unit_id": 537,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 70,
+   "barcode": 8288
+ },
+ {
+   "unit_id": 538,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 283,
+   "barcode": 9221
+ },
+ {
+   "unit_id": 539,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 55,
+   "barcode": 5666
+ },
+ {
+   "unit_id": 540,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 77,
+   "barcode": 2882
+ },
+ {
+   "unit_id": 541,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 76,
+   "barcode": 4906
+ },
+ {
+   "unit_id": 542,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 297,
+   "barcode": 7589
+ },
+ {
+   "unit_id": 543,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 328,
+   "barcode": 4635
+ },
+ {
+   "unit_id": 544,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 138,
+   "barcode": 4538
+ },
+ {
+   "unit_id": 545,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 179,
+   "barcode": 5049
+ },
+ {
+   "unit_id": 546,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 127,
+   "barcode": 2712
+ },
+ {
+   "unit_id": 547,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 44,
+   "barcode": 2989
+ },
+ {
+   "unit_id": 548,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 326,
+   "barcode": 2412
+ },
+ {
+   "unit_id": 549,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 130,
+   "barcode": 7890
+ },
+ {
+   "unit_id": 550,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 306,
+   "barcode": 6859
+ },
+ {
+   "unit_id": 551,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 333,
+   "barcode": 8360
+ },
+ {
+   "unit_id": 552,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 243,
+   "barcode": 8678
+ },
+ {
+   "unit_id": 553,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 159,
+   "barcode": 3320
+ },
+ {
+   "unit_id": 554,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 16,
+   "barcode": 7927
+ },
+ {
+   "unit_id": 555,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 82,
+   "barcode": 9288
+ },
+ {
+   "unit_id": 556,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 121,
+   "barcode": 1481
+ },
+ {
+   "unit_id": 557,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 141,
+   "barcode": 5563
+ },
+ {
+   "unit_id": 558,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 210,
+   "barcode": 7006
+ },
+ {
+   "unit_id": 559,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 215,
+   "barcode": 1178
+ },
+ {
+   "unit_id": 560,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 208,
+   "barcode": 2582
+ },
+ {
+   "unit_id": 561,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 164,
+   "barcode": 3258
+ },
+ {
+   "unit_id": 562,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 15,
+   "barcode": 3054
+ },
+ {
+   "unit_id": 563,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 358,
+   "barcode": 9862
+ },
+ {
+   "unit_id": 564,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 352,
+   "barcode": 1475
+ },
+ {
+   "unit_id": 565,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 191,
+   "barcode": 9513
+ },
+ {
+   "unit_id": 566,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 126,
+   "barcode": 5384
+ },
+ {
+   "unit_id": 567,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 317,
+   "barcode": 3705
+ },
+ {
+   "unit_id": 568,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 228,
+   "barcode": 5062
+ },
+ {
+   "unit_id": 569,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 185,
+   "barcode": 5222
+ },
+ {
+   "unit_id": 570,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 328,
+   "barcode": 2910
+ },
+ {
+   "unit_id": 571,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 347,
+   "barcode": 9052
+ },
+ {
+   "unit_id": 572,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 75,
+   "barcode": 6246
+ },
+ {
+   "unit_id": 573,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 98,
+   "barcode": 7773
+ },
+ {
+   "unit_id": 574,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 5,
+   "barcode": 1448
+ },
+ {
+   "unit_id": 575,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 167,
+   "barcode": 2296
+ },
+ {
+   "unit_id": 576,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 355,
+   "barcode": 5900
+ },
+ {
+   "unit_id": 577,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 290,
+   "barcode": 6405
+ },
+ {
+   "unit_id": 578,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 132,
+   "barcode": 4752
+ },
+ {
+   "unit_id": 579,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 62,
+   "barcode": 6610
+ },
+ {
+   "unit_id": 580,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 143,
+   "barcode": 5894
+ },
+ {
+   "unit_id": 581,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 111,
+   "barcode": 1843
+ },
+ {
+   "unit_id": 582,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 235,
+   "barcode": 8054
+ },
+ {
+   "unit_id": 583,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 251,
+   "barcode": 5798
+ },
+ {
+   "unit_id": 584,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 55,
+   "barcode": 2348
+ },
+ {
+   "unit_id": 585,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 103,
+   "barcode": 3410
+ },
+ {
+   "unit_id": 586,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 210,
+   "barcode": 3141
+ },
+ {
+   "unit_id": 587,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 305,
+   "barcode": 9668
+ },
+ {
+   "unit_id": 588,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 282,
+   "barcode": 9490
+ },
+ {
+   "unit_id": 589,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 22,
+   "barcode": 9705
+ },
+ {
+   "unit_id": 590,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 224,
+   "barcode": 3352
+ },
+ {
+   "unit_id": 591,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 204,
+   "barcode": 2154
+ },
+ {
+   "unit_id": 592,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 210,
+   "barcode": 9982
+ },
+ {
+   "unit_id": 593,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 63,
+   "barcode": 4377
+ },
+ {
+   "unit_id": 594,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 157,
+   "barcode": 6615
+ },
+ {
+   "unit_id": 595,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 6,
+   "barcode": 4112
+ },
+ {
+   "unit_id": 596,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 89,
+   "barcode": 5468
+ },
+ {
+   "unit_id": 597,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 258,
+   "barcode": 3896
+ },
+ {
+   "unit_id": 598,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 41,
+   "barcode": 5923
+ },
+ {
+   "unit_id": 599,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 9,
+   "barcode": 8009
+ },
+ {
+   "unit_id": 600,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 32,
+   "barcode": 8881
+ },
+ {
+   "unit_id": 601,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 96,
+   "barcode": 4616
+ },
+ {
+   "unit_id": 602,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 206,
+   "barcode": 3506
+ },
+ {
+   "unit_id": 603,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 76,
+   "barcode": 9148
+ },
+ {
+   "unit_id": 604,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 119,
+   "barcode": 5871
+ },
+ {
+   "unit_id": 605,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 207,
+   "barcode": 2124
+ },
+ {
+   "unit_id": 606,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 83,
+   "barcode": 8932
+ },
+ {
+   "unit_id": 607,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 239,
+   "barcode": 6457
+ },
+ {
+   "unit_id": 608,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 145,
+   "barcode": 5413
+ },
+ {
+   "unit_id": 609,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 41,
+   "barcode": 8657
+ },
+ {
+   "unit_id": 610,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 62,
+   "barcode": 1931
+ },
+ {
+   "unit_id": 611,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 271,
+   "barcode": 6248
+ },
+ {
+   "unit_id": 612,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 281,
+   "barcode": 5374
+ },
+ {
+   "unit_id": 613,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 346,
+   "barcode": 8938
+ },
+ {
+   "unit_id": 614,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 83,
+   "barcode": 2396
+ },
+ {
+   "unit_id": 615,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 317,
+   "barcode": 8660
+ },
+ {
+   "unit_id": 616,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 335,
+   "barcode": 3191
+ },
+ {
+   "unit_id": 617,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 239,
+   "barcode": 6411
+ },
+ {
+   "unit_id": 618,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 228,
+   "barcode": 3771
+ },
+ {
+   "unit_id": 619,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 176,
+   "barcode": 1576
+ },
+ {
+   "unit_id": 620,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 58,
+   "barcode": 2400
+ },
+ {
+   "unit_id": 621,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 140,
+   "barcode": 6274
+ },
+ {
+   "unit_id": 622,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 324,
+   "barcode": 9382
+ },
+ {
+   "unit_id": 623,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 137,
+   "barcode": 6232
+ },
+ {
+   "unit_id": 624,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 150,
+   "barcode": 5320
+ },
+ {
+   "unit_id": 625,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 343,
+   "barcode": 2066
+ },
+ {
+   "unit_id": 626,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 331,
+   "barcode": 9739
+ },
+ {
+   "unit_id": 627,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 224,
+   "barcode": 1648
+ },
+ {
+   "unit_id": 628,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 290,
+   "barcode": 9198
+ },
+ {
+   "unit_id": 629,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 359,
+   "barcode": 3107
+ },
+ {
+   "unit_id": 630,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 210,
+   "barcode": 8203
+ },
+ {
+   "unit_id": 631,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 147,
+   "barcode": 9436
+ },
+ {
+   "unit_id": 632,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 267,
+   "barcode": 2997
+ },
+ {
+   "unit_id": 633,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 281,
+   "barcode": 2153
+ },
+ {
+   "unit_id": 634,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 293,
+   "barcode": 9231
+ },
+ {
+   "unit_id": 635,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 236,
+   "barcode": 2685
+ },
+ {
+   "unit_id": 636,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 165,
+   "barcode": 4862
+ },
+ {
+   "unit_id": 637,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 174,
+   "barcode": 9965
+ },
+ {
+   "unit_id": 638,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 151,
+   "barcode": 6614
+ },
+ {
+   "unit_id": 639,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 220,
+   "barcode": 9486
+ },
+ {
+   "unit_id": 640,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 277,
+   "barcode": 2038
+ },
+ {
+   "unit_id": 641,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 23,
+   "barcode": 8118
+ },
+ {
+   "unit_id": 642,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 73,
+   "barcode": 3188
+ },
+ {
+   "unit_id": 643,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 89,
+   "barcode": 6232
+ },
+ {
+   "unit_id": 644,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 17,
+   "barcode": 4376
+ },
+ {
+   "unit_id": 645,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 0,
+   "barcode": 3050
+ },
+ {
+   "unit_id": 646,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 160,
+   "barcode": 2654
+ },
+ {
+   "unit_id": 647,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 101,
+   "barcode": 1019
+ },
+ {
+   "unit_id": 648,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 260,
+   "barcode": 3046
+ },
+ {
+   "unit_id": 649,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 47,
+   "barcode": 3623
+ },
+ {
+   "unit_id": 650,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 147,
+   "barcode": 3525
+ },
+ {
+   "unit_id": 651,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 70,
+   "barcode": 9343
+ },
+ {
+   "unit_id": 652,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 122,
+   "barcode": 9700
+ },
+ {
+   "unit_id": 653,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 232,
+   "barcode": 7886
+ },
+ {
+   "unit_id": 654,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 345,
+   "barcode": 6790
+ },
+ {
+   "unit_id": 655,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 312,
+   "barcode": 5036
+ },
+ {
+   "unit_id": 656,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 244,
+   "barcode": 4566
+ },
+ {
+   "unit_id": 657,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 69,
+   "barcode": 2817
+ },
+ {
+   "unit_id": 658,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 255,
+   "barcode": 6607
+ },
+ {
+   "unit_id": 659,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 290,
+   "barcode": 3097
+ },
+ {
+   "unit_id": 660,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 144,
+   "barcode": 2494
+ },
+ {
+   "unit_id": 661,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 46,
+   "barcode": 7414
+ },
+ {
+   "unit_id": 662,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 204,
+   "barcode": 5535
+ },
+ {
+   "unit_id": 663,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 32,
+   "barcode": 5834
+ },
+ {
+   "unit_id": 664,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 246,
+   "barcode": 6527
+ },
+ {
+   "unit_id": 665,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 325,
+   "barcode": 6718
+ },
+ {
+   "unit_id": 666,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 185,
+   "barcode": 6144
+ },
+ {
+   "unit_id": 667,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 311,
+   "barcode": 3745
+ },
+ {
+   "unit_id": 668,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 339,
+   "barcode": 8061
+ },
+ {
+   "unit_id": 669,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 246,
+   "barcode": 2616
+ },
+ {
+   "unit_id": 670,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 19,
+   "barcode": 8217
+ },
+ {
+   "unit_id": 671,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 249,
+   "barcode": 8691
+ },
+ {
+   "unit_id": 672,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 114,
+   "barcode": 9642
+ },
+ {
+   "unit_id": 673,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 166,
+   "barcode": 1220
+ },
+ {
+   "unit_id": 674,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 309,
+   "barcode": 1308
+ },
+ {
+   "unit_id": 675,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 316,
+   "barcode": 2181
+ },
+ {
+   "unit_id": 676,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 169,
+   "barcode": 1929
+ },
+ {
+   "unit_id": 677,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 219,
+   "barcode": 7618
+ },
+ {
+   "unit_id": 678,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 112,
+   "barcode": 4396
+ },
+ {
+   "unit_id": 679,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 237,
+   "barcode": 3445
+ },
+ {
+   "unit_id": 680,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 42,
+   "barcode": 4273
+ },
+ {
+   "unit_id": 681,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 115,
+   "barcode": 1696
+ },
+ {
+   "unit_id": 682,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 259,
+   "barcode": 6730
+ },
+ {
+   "unit_id": 683,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 357,
+   "barcode": 5085
+ },
+ {
+   "unit_id": 684,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 48,
+   "barcode": 1955
+ },
+ {
+   "unit_id": 685,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 58,
+   "barcode": 4599
+ },
+ {
+   "unit_id": 686,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 196,
+   "barcode": 9501
+ },
+ {
+   "unit_id": 687,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 12,
+   "barcode": 3292
+ },
+ {
+   "unit_id": 688,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 207,
+   "barcode": 2203
+ },
+ {
+   "unit_id": 689,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 15,
+   "barcode": 3960
+ },
+ {
+   "unit_id": 690,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 271,
+   "barcode": 9893
+ },
+ {
+   "unit_id": 691,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 113,
+   "barcode": 8574
+ },
+ {
+   "unit_id": 692,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 250,
+   "barcode": 8127
+ },
+ {
+   "unit_id": 693,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 114,
+   "barcode": 1190
+ },
+ {
+   "unit_id": 694,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 227,
+   "barcode": 7591
+ },
+ {
+   "unit_id": 695,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 163,
+   "barcode": 9806
+ },
+ {
+   "unit_id": 696,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 229,
+   "barcode": 3342
+ },
+ {
+   "unit_id": 697,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 347,
+   "barcode": 1955
+ },
+ {
+   "unit_id": 698,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 260,
+   "barcode": 8591
+ },
+ {
+   "unit_id": 699,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 171,
+   "barcode": 3125
+ },
+ {
+   "unit_id": 700,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 4,
+   "barcode": 2836
+ },
+ {
+   "unit_id": 701,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 206,
+   "barcode": 1921
+ },
+ {
+   "unit_id": 702,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 290,
+   "barcode": 6867
+ },
+ {
+   "unit_id": 703,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 239,
+   "barcode": 6118
+ },
+ {
+   "unit_id": 704,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 3,
+   "barcode": 7951
+ },
+ {
+   "unit_id": 705,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 141,
+   "barcode": 2386
+ },
+ {
+   "unit_id": 706,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 304,
+   "barcode": 6350
+ },
+ {
+   "unit_id": 707,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 168,
+   "barcode": 1408
+ },
+ {
+   "unit_id": 708,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 307,
+   "barcode": 8266
+ },
+ {
+   "unit_id": 709,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 348,
+   "barcode": 8529
+ },
+ {
+   "unit_id": 710,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 171,
+   "barcode": 1851
+ },
+ {
+   "unit_id": 711,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 5,
+   "barcode": 2265
+ },
+ {
+   "unit_id": 712,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 66,
+   "barcode": 9462
+ },
+ {
+   "unit_id": 713,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 216,
+   "barcode": 3504
+ },
+ {
+   "unit_id": 714,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 195,
+   "barcode": 2326
+ },
+ {
+   "unit_id": 715,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 25,
+   "barcode": 3871
+ },
+ {
+   "unit_id": 716,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 184,
+   "barcode": 5787
+ },
+ {
+   "unit_id": 717,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 28,
+   "barcode": 8208
+ },
+ {
+   "unit_id": 718,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 44,
+   "barcode": 9514
+ },
+ {
+   "unit_id": 719,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 75,
+   "barcode": 2335
+ },
+ {
+   "unit_id": 720,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 127,
+   "barcode": 2275
+ },
+ {
+   "unit_id": 721,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 203,
+   "barcode": 2933
+ },
+ {
+   "unit_id": 722,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 66,
+   "barcode": 7251
+ },
+ {
+   "unit_id": 723,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 358,
+   "barcode": 7395
+ },
+ {
+   "unit_id": 724,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 58,
+   "barcode": 8483
+ },
+ {
+   "unit_id": 725,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 316,
+   "barcode": 3902
+ },
+ {
+   "unit_id": 726,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 32,
+   "barcode": 1185
+ },
+ {
+   "unit_id": 727,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 4,
+   "barcode": 9214
+ },
+ {
+   "unit_id": 728,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 253,
+   "barcode": 5391
+ },
+ {
+   "unit_id": 729,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 291,
+   "barcode": 3332
+ },
+ {
+   "unit_id": 730,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 51,
+   "barcode": 8359
+ },
+ {
+   "unit_id": 731,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 143,
+   "barcode": 5219
+ },
+ {
+   "unit_id": 732,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 347,
+   "barcode": 5002
+ },
+ {
+   "unit_id": 733,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 162,
+   "barcode": 5115
+ },
+ {
+   "unit_id": 734,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 1,
+   "barcode": 1530
+ },
+ {
+   "unit_id": 735,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 283,
+   "barcode": 7025
+ },
+ {
+   "unit_id": 736,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 61,
+   "barcode": 7560
+ },
+ {
+   "unit_id": 737,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 166,
+   "barcode": 2260
+ },
+ {
+   "unit_id": 738,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 270,
+   "barcode": 2845
+ },
+ {
+   "unit_id": 739,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 320,
+   "barcode": 2277
+ },
+ {
+   "unit_id": 740,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 269,
+   "barcode": 9016
+ },
+ {
+   "unit_id": 741,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 295,
+   "barcode": 5395
+ },
+ {
+   "unit_id": 742,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 255,
+   "barcode": 2435
+ },
+ {
+   "unit_id": 743,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 231,
+   "barcode": 5001
+ },
+ {
+   "unit_id": 744,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 245,
+   "barcode": 3648
+ },
+ {
+   "unit_id": 745,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 57,
+   "barcode": 8411
+ },
+ {
+   "unit_id": 746,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 313,
+   "barcode": 8263
+ },
+ {
+   "unit_id": 747,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 239,
+   "barcode": 1396
+ },
+ {
+   "unit_id": 748,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 61,
+   "barcode": 8431
+ },
+ {
+   "unit_id": 749,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 115,
+   "barcode": 8389
+ },
+ {
+   "unit_id": 750,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 168,
+   "barcode": 9184
+ },
+ {
+   "unit_id": 751,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 34,
+   "barcode": 5984
+ },
+ {
+   "unit_id": 752,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 12,
+   "barcode": 4142
+ },
+ {
+   "unit_id": 753,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 57,
+   "barcode": 2578
+ },
+ {
+   "unit_id": 754,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 68,
+   "barcode": 2245
+ },
+ {
+   "unit_id": 755,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 84,
+   "barcode": 3982
+ },
+ {
+   "unit_id": 756,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 190,
+   "barcode": 2807
+ },
+ {
+   "unit_id": 757,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 300,
+   "barcode": 7980
+ },
+ {
+   "unit_id": 758,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 142,
+   "barcode": 7678
+ },
+ {
+   "unit_id": 759,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 77,
+   "barcode": 7496
+ },
+ {
+   "unit_id": 760,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 220,
+   "barcode": 4134
+ },
+ {
+   "unit_id": 761,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 287,
+   "barcode": 4188
+ },
+ {
+   "unit_id": 762,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 115,
+   "barcode": 8291
+ },
+ {
+   "unit_id": 763,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 61,
+   "barcode": 6689
+ },
+ {
+   "unit_id": 764,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 64,
+   "barcode": 8434
+ },
+ {
+   "unit_id": 765,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 202,
+   "barcode": 1647
+ },
+ {
+   "unit_id": 766,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 324,
+   "barcode": 9094
+ },
+ {
+   "unit_id": 767,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 41,
+   "barcode": 7224
+ },
+ {
+   "unit_id": 768,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 341,
+   "barcode": 7565
+ },
+ {
+   "unit_id": 769,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 11,
+   "barcode": 2187
+ },
+ {
+   "unit_id": 770,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 143,
+   "barcode": 1727
+ },
+ {
+   "unit_id": 771,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 190,
+   "barcode": 4214
+ },
+ {
+   "unit_id": 772,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 105,
+   "barcode": 2676
+ },
+ {
+   "unit_id": 773,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 98,
+   "barcode": 8321
+ },
+ {
+   "unit_id": 774,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 71,
+   "barcode": 8199
+ },
+ {
+   "unit_id": 775,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 164,
+   "barcode": 2746
+ },
+ {
+   "unit_id": 776,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 25,
+   "barcode": 9836
+ },
+ {
+   "unit_id": 777,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 53,
+   "barcode": 9007
+ },
+ {
+   "unit_id": 778,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 304,
+   "barcode": 1940
+ },
+ {
+   "unit_id": 779,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 153,
+   "barcode": 9290
+ },
+ {
+   "unit_id": 780,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 12,
+   "barcode": 5561
+ },
+ {
+   "unit_id": 781,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 224,
+   "barcode": 3606
+ },
+ {
+   "unit_id": 782,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 238,
+   "barcode": 9671
+ },
+ {
+   "unit_id": 783,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 104,
+   "barcode": 3672
+ },
+ {
+   "unit_id": 784,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 327,
+   "barcode": 8066
+ },
+ {
+   "unit_id": 785,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 80,
+   "barcode": 1349
+ },
+ {
+   "unit_id": 786,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 284,
+   "barcode": 4466
+ },
+ {
+   "unit_id": 787,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 76,
+   "barcode": 7809
+ },
+ {
+   "unit_id": 788,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 45,
+   "barcode": 2390
+ },
+ {
+   "unit_id": 789,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 276,
+   "barcode": 2646
+ },
+ {
+   "unit_id": 790,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 248,
+   "barcode": 4159
+ },
+ {
+   "unit_id": 791,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 250,
+   "barcode": 7800
+ },
+ {
+   "unit_id": 792,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 124,
+   "barcode": 4375
+ },
+ {
+   "unit_id": 793,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 258,
+   "barcode": 6729
+ },
+ {
+   "unit_id": 794,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 130,
+   "barcode": 5403
+ },
+ {
+   "unit_id": 795,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 89,
+   "barcode": 4385
+ },
+ {
+   "unit_id": 796,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 63,
+   "barcode": 8722
+ },
+ {
+   "unit_id": 797,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 197,
+   "barcode": 5252
+ },
+ {
+   "unit_id": 798,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 270,
+   "barcode": 7111
+ },
+ {
+   "unit_id": 799,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 75,
+   "barcode": 1782
+ },
+ {
+   "unit_id": 800,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 334,
+   "barcode": 2053
+ },
+ {
+   "unit_id": 801,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 56,
+   "barcode": 8268
+ },
+ {
+   "unit_id": 802,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 20,
+   "barcode": 4503
+ },
+ {
+   "unit_id": 803,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 228,
+   "barcode": 5730
+ },
+ {
+   "unit_id": 804,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 60,
+   "barcode": 5326
+ },
+ {
+   "unit_id": 805,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 289,
+   "barcode": 3487
+ },
+ {
+   "unit_id": 806,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 318,
+   "barcode": 2800
+ },
+ {
+   "unit_id": 807,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 22,
+   "barcode": 5573
+ },
+ {
+   "unit_id": 808,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 70,
+   "barcode": 8022
+ },
+ {
+   "unit_id": 809,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 313,
+   "barcode": 1329
+ },
+ {
+   "unit_id": 810,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 304,
+   "barcode": 9503
+ },
+ {
+   "unit_id": 811,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 21,
+   "barcode": 8853
+ },
+ {
+   "unit_id": 812,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 59,
+   "barcode": 9720
+ },
+ {
+   "unit_id": 813,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 59,
+   "barcode": 3534
+ },
+ {
+   "unit_id": 814,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 147,
+   "barcode": 6737
+ },
+ {
+   "unit_id": 815,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 256,
+   "barcode": 4214
+ },
+ {
+   "unit_id": 816,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 132,
+   "barcode": 7934
+ },
+ {
+   "unit_id": 817,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 305,
+   "barcode": 5954
+ },
+ {
+   "unit_id": 818,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 330,
+   "barcode": 5999
+ },
+ {
+   "unit_id": 819,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 157,
+   "barcode": 3586
+ },
+ {
+   "unit_id": 820,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 310,
+   "barcode": 9602
+ },
+ {
+   "unit_id": 821,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 53,
+   "barcode": 7421
+ },
+ {
+   "unit_id": 822,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 179,
+   "barcode": 2554
+ },
+ {
+   "unit_id": 823,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 23,
+   "barcode": 3011
+ },
+ {
+   "unit_id": 824,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 307,
+   "barcode": 1461
+ },
+ {
+   "unit_id": 825,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 33,
+   "barcode": 4733
+ },
+ {
+   "unit_id": 826,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 276,
+   "barcode": 4217
+ },
+ {
+   "unit_id": 827,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 355,
+   "barcode": 2314
+ },
+ {
+   "unit_id": 828,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 132,
+   "barcode": 9243
+ },
+ {
+   "unit_id": 829,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 188,
+   "barcode": 3587
+ },
+ {
+   "unit_id": 830,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 165,
+   "barcode": 9760
+ },
+ {
+   "unit_id": 831,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 234,
+   "barcode": 6136
+ },
+ {
+   "unit_id": 832,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 159,
+   "barcode": 8253
+ },
+ {
+   "unit_id": 833,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 158,
+   "barcode": 7602
+ },
+ {
+   "unit_id": 834,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 189,
+   "barcode": 9668
+ },
+ {
+   "unit_id": 835,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 276,
+   "barcode": 6084
+ },
+ {
+   "unit_id": 836,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 125,
+   "barcode": 3920
+ },
+ {
+   "unit_id": 837,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 29,
+   "barcode": 5678
+ },
+ {
+   "unit_id": 838,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 20,
+   "barcode": 2068
+ },
+ {
+   "unit_id": 839,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 282,
+   "barcode": 6889
+ },
+ {
+   "unit_id": 840,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 307,
+   "barcode": 6000
+ },
+ {
+   "unit_id": 841,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 75,
+   "barcode": 4033
+ },
+ {
+   "unit_id": 842,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 39,
+   "barcode": 4731
+ },
+ {
+   "unit_id": 843,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 350,
+   "barcode": 3967
+ },
+ {
+   "unit_id": 844,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 81,
+   "barcode": 2978
+ },
+ {
+   "unit_id": 845,
+   "product_name": "pepsi",
+   "popularity": "low",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 226,
+   "barcode": 4150
+ },
+ {
+   "unit_id": 846,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 273,
+   "barcode": 3908
+ },
+ {
+   "unit_id": 847,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 313,
+   "barcode": 9850
+ },
+ {
+   "unit_id": 848,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 75,
+   "barcode": 1362
+ },
+ {
+   "unit_id": 849,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 251,
+   "barcode": 4588
+ },
+ {
+   "unit_id": 850,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 198,
+   "barcode": 7495
+ },
+ {
+   "unit_id": 851,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 19,
+   "barcode": 3399
+ },
+ {
+   "unit_id": 852,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 127,
+   "barcode": 8453
+ },
+ {
+   "unit_id": 853,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 160,
+   "barcode": 1575
+ },
+ {
+   "unit_id": 854,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 120,
+   "barcode": 8668
+ },
+ {
+   "unit_id": 855,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 128,
+   "barcode": 4258
+ },
+ {
+   "unit_id": 856,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 84,
+   "barcode": 6496
+ },
+ {
+   "unit_id": 857,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 91,
+   "barcode": 1067
+ },
+ {
+   "unit_id": 858,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 7,
+   "barcode": 4697
+ },
+ {
+   "unit_id": 859,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 260,
+   "barcode": 5678
+ },
+ {
+   "unit_id": 860,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 41,
+   "barcode": 9067
+ },
+ {
+   "unit_id": 861,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 81,
+   "barcode": 7004
+ },
+ {
+   "unit_id": 862,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 170,
+   "barcode": 4922
+ },
+ {
+   "unit_id": 863,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 164,
+   "barcode": 5869
+ },
+ {
+   "unit_id": 864,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 332,
+   "barcode": 4933
+ },
+ {
+   "unit_id": 865,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 309,
+   "barcode": 3015
+ },
+ {
+   "unit_id": 866,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 81,
+   "barcode": 9733
+ },
+ {
+   "unit_id": 867,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 305,
+   "barcode": 7258
+ },
+ {
+   "unit_id": 868,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 159,
+   "barcode": 3702
+ },
+ {
+   "unit_id": 869,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 53,
+   "barcode": 7307
+ },
+ {
+   "unit_id": 870,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 17,
+   "barcode": 7573
+ },
+ {
+   "unit_id": 871,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 355,
+   "barcode": 6131
+ },
+ {
+   "unit_id": 872,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 106,
+   "barcode": 8701
+ },
+ {
+   "unit_id": 873,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 337,
+   "barcode": 2536
+ },
+ {
+   "unit_id": 874,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 114,
+   "barcode": 5715
+ },
+ {
+   "unit_id": 875,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 210,
+   "barcode": 1690
+ },
+ {
+   "unit_id": 876,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 189,
+   "barcode": 8834
+ },
+ {
+   "unit_id": 877,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 340,
+   "barcode": 4172
+ },
+ {
+   "unit_id": 878,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 227,
+   "barcode": 1808
+ },
+ {
+   "unit_id": 879,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 359,
+   "barcode": 8827
+ },
+ {
+   "unit_id": 880,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 1,
+   "barcode": 7820
+ },
+ {
+   "unit_id": 881,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 168,
+   "barcode": 6127
+ },
+ {
+   "unit_id": 882,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 36,
+   "barcode": 4948
+ },
+ {
+   "unit_id": 883,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 92,
+   "barcode": 2277
+ },
+ {
+   "unit_id": 884,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 311,
+   "barcode": 9425
+ },
+ {
+   "unit_id": 885,
+   "product_name": "lamb",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 26,
+   "barcode": 5650
+ },
+ {
+   "unit_id": 886,
+   "product_name": "lamb",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 297,
+   "barcode": 3325
+ },
+ {
+   "unit_id": 887,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 152,
+   "barcode": 5887
+ },
+ {
+   "unit_id": 888,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 4,
+   "barcode": 8150
+ },
+ {
+   "unit_id": 889,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 70,
+   "barcode": 8977
+ },
+ {
+   "unit_id": 890,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 102,
+   "barcode": 4096
+ },
+ {
+   "unit_id": 891,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 290,
+   "barcode": 9829
+ },
+ {
+   "unit_id": 892,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 48,
+   "barcode": 7557
+ },
+ {
+   "unit_id": 893,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 149,
+   "barcode": 6068
+ },
+ {
+   "unit_id": 894,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 244,
+   "barcode": 8213
+ },
+ {
+   "unit_id": 895,
+   "product_name": "kiwi",
+   "popularity": "high",
+   "price": 5,
+   "durability": "high",
+   "daysuntilexpiration": 16,
+   "barcode": 6993
+ },
+ {
+   "unit_id": 896,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 19,
+   "barcode": 9734
+ },
+ {
+   "unit_id": 897,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 292,
+   "barcode": 7633
+ },
+ {
+   "unit_id": 898,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 31,
+   "barcode": 3180
+ },
+ {
+   "unit_id": 899,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 61,
+   "barcode": 5211
+ },
+ {
+   "unit_id": 900,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 203,
+   "barcode": 3141
+ },
+ {
+   "unit_id": 901,
+   "product_name": "yogurt",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 314,
+   "barcode": 3271
+ },
+ {
+   "unit_id": 902,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 112,
+   "barcode": 1623
+ },
+ {
+   "unit_id": 903,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 341,
+   "barcode": 6227
+ },
+ {
+   "unit_id": 904,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 32,
+   "barcode": 5401
+ },
+ {
+   "unit_id": 905,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 242,
+   "barcode": 7036
+ },
+ {
+   "unit_id": 906,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 317,
+   "barcode": 2558
+ },
+ {
+   "unit_id": 907,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 33,
+   "barcode": 1800
+ },
+ {
+   "unit_id": 908,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 137,
+   "barcode": 3930
+ },
+ {
+   "unit_id": 909,
+   "product_name": "pepsi",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 357,
+   "barcode": 1666
+ },
+ {
+   "unit_id": 910,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 174,
+   "barcode": 8865
+ },
+ {
+   "unit_id": 911,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 121,
+   "barcode": 5402
+ },
+ {
+   "unit_id": 912,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 7,
+   "barcode": 5132
+ },
+ {
+   "unit_id": 913,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 103,
+   "barcode": 9680
+ },
+ {
+   "unit_id": 914,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 359,
+   "barcode": 6674
+ },
+ {
+   "unit_id": 915,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 122,
+   "barcode": 9194
+ },
+ {
+   "unit_id": 916,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 6,
+   "durability": "medium",
+   "daysuntilexpiration": 136,
+   "barcode": 7634
+ },
+ {
+   "unit_id": 917,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 292,
+   "barcode": 5695
+ },
+ {
+   "unit_id": 918,
+   "product_name": "broccoli",
+   "popularity": "low",
+   "price": 4,
+   "durability": "low",
+   "daysuntilexpiration": 55,
+   "barcode": 3682
+ },
+ {
+   "unit_id": 919,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 323,
+   "barcode": 9319
+ },
+ {
+   "unit_id": 920,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 305,
+   "barcode": 4254
+ },
+ {
+   "unit_id": 921,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 310,
+   "barcode": 4039
+ },
+ {
+   "unit_id": 922,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 310,
+   "barcode": 1309
+ },
+ {
+   "unit_id": 923,
+   "product_name": "fish",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 1,
+   "barcode": 4482
+ },
+ {
+   "unit_id": 924,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 135,
+   "barcode": 4216
+ },
+ {
+   "unit_id": 925,
+   "product_name": "cola",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 299,
+   "barcode": 9304
+ },
+ {
+   "unit_id": 926,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 115,
+   "barcode": 2688
+ },
+ {
+   "unit_id": 927,
+   "product_name": "salad",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 228,
+   "barcode": 2063
+ },
+ {
+   "unit_id": 928,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 129,
+   "barcode": 9712
+ },
+ {
+   "unit_id": 929,
+   "product_name": "bananna",
+   "popularity": "low",
+   "price": 7,
+   "durability": "high",
+   "daysuntilexpiration": 319,
+   "barcode": 3101
+ },
+ {
+   "unit_id": 930,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 95,
+   "barcode": 7036
+ },
+ {
+   "unit_id": 931,
+   "product_name": "yogurt",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 250,
+   "barcode": 7869
+ },
+ {
+   "unit_id": 932,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 212,
+   "barcode": 6796
+ },
+ {
+   "unit_id": 933,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 8,
+   "durability": "high",
+   "daysuntilexpiration": 165,
+   "barcode": 2418
+ },
+ {
+   "unit_id": 934,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 118,
+   "barcode": 8818
+ },
+ {
+   "unit_id": 935,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 248,
+   "barcode": 9572
+ },
+ {
+   "unit_id": 936,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 237,
+   "barcode": 3495
+ },
+ {
+   "unit_id": 937,
+   "product_name": "bananna",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 282,
+   "barcode": 8940
+ },
+ {
+   "unit_id": 938,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 1,
+   "durability": "medium",
+   "daysuntilexpiration": 211,
+   "barcode": 6922
+ },
+ {
+   "unit_id": 939,
+   "product_name": "kiwi",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 281,
+   "barcode": 4514
+ },
+ {
+   "unit_id": 940,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 12,
+   "barcode": 1410
+ },
+ {
+   "unit_id": 941,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 24,
+   "barcode": 7308
+ },
+ {
+   "unit_id": 942,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 291,
+   "barcode": 5911
+ },
+ {
+   "unit_id": 943,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 165,
+   "barcode": 2731
+ },
+ {
+   "unit_id": 944,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 2,
+   "durability": "low",
+   "daysuntilexpiration": 108,
+   "barcode": 6725
+ },
+ {
+   "unit_id": 945,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 1,
+   "barcode": 8331
+ },
+ {
+   "unit_id": 946,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 185,
+   "barcode": 7538
+ },
+ {
+   "unit_id": 947,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 67,
+   "barcode": 8920
+ },
+ {
+   "unit_id": 948,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 213,
+   "barcode": 5509
+ },
+ {
+   "unit_id": 949,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 298,
+   "barcode": 4928
+ },
+ {
+   "unit_id": 950,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 66,
+   "barcode": 4166
+ },
+ {
+   "unit_id": 951,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 21,
+   "barcode": 8938
+ },
+ {
+   "unit_id": 952,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 167,
+   "barcode": 3579
+ },
+ {
+   "unit_id": 953,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 9,
+   "durability": "low",
+   "daysuntilexpiration": 168,
+   "barcode": 5456
+ },
+ {
+   "unit_id": 954,
+   "product_name": "lamb",
+   "popularity": "medium",
+   "price": 3,
+   "durability": "low",
+   "daysuntilexpiration": 348,
+   "barcode": 5999
+ },
+ {
+   "unit_id": 955,
+   "product_name": "cheese",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 56,
+   "barcode": 1418
+ },
+ {
+   "unit_id": 956,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 98,
+   "barcode": 3600
+ },
+ {
+   "unit_id": 957,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 6,
+   "durability": "low",
+   "daysuntilexpiration": 350,
+   "barcode": 8254
+ },
+ {
+   "unit_id": 958,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 322,
+   "barcode": 8957
+ },
+ {
+   "unit_id": 959,
+   "product_name": "cola",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 260,
+   "barcode": 2883
+ },
+ {
+   "unit_id": 960,
+   "product_name": "broccoli",
+   "popularity": "high",
+   "price": 3,
+   "durability": "high",
+   "daysuntilexpiration": 176,
+   "barcode": 8158
+ },
+ {
+   "unit_id": 961,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 45,
+   "barcode": 1169
+ },
+ {
+   "unit_id": 962,
+   "product_name": "apple",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 36,
+   "barcode": 9534
+ },
+ {
+   "unit_id": 963,
+   "product_name": "kiwi",
+   "popularity": "low",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 122,
+   "barcode": 1718
+ },
+ {
+   "unit_id": 964,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 53,
+   "barcode": 4572
+ },
+ {
+   "unit_id": 965,
+   "product_name": "fish",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "low",
+   "daysuntilexpiration": 157,
+   "barcode": 3053
+ },
+ {
+   "unit_id": 966,
+   "product_name": "beef",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "low",
+   "daysuntilexpiration": 100,
+   "barcode": 6574
+ },
+ {
+   "unit_id": 967,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 146,
+   "barcode": 7866
+ },
+ {
+   "unit_id": 968,
+   "product_name": "berry",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 127,
+   "barcode": 4371
+ },
+ {
+   "unit_id": 969,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 7,
+   "barcode": 2539
+ },
+ {
+   "unit_id": 970,
+   "product_name": "strawberry",
+   "popularity": "low",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 262,
+   "barcode": 5425
+ },
+ {
+   "unit_id": 971,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "medium",
+   "daysuntilexpiration": 89,
+   "barcode": 2886
+ },
+ {
+   "unit_id": 972,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 212,
+   "barcode": 6792
+ },
+ {
+   "unit_id": 973,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 240,
+   "barcode": 7638
+ },
+ {
+   "unit_id": 974,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 4,
+   "durability": "high",
+   "daysuntilexpiration": 242,
+   "barcode": 7192
+ },
+ {
+   "unit_id": 975,
+   "product_name": "berry",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 86,
+   "barcode": 2001
+ },
+ {
+   "unit_id": 976,
+   "product_name": "strawberry",
+   "popularity": "medium",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 133,
+   "barcode": 9725
+ },
+ {
+   "unit_id": 977,
+   "product_name": "fish",
+   "popularity": "low",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 304,
+   "barcode": 6407
+ },
+ {
+   "unit_id": 978,
+   "product_name": "broccoli",
+   "popularity": "medium",
+   "price": 2,
+   "durability": "high",
+   "daysuntilexpiration": 73,
+   "barcode": 8457
+ },
+ {
+   "unit_id": 979,
+   "product_name": "strawberry",
+   "popularity": "high",
+   "price": 3,
+   "durability": "medium",
+   "daysuntilexpiration": 364,
+   "barcode": 4134
+ },
+ {
+   "unit_id": 980,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 262,
+   "barcode": 7531
+ },
+ {
+   "unit_id": 981,
+   "product_name": "chicken",
+   "popularity": "high",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 63,
+   "barcode": 4266
+ },
+ {
+   "unit_id": 982,
+   "product_name": "apple",
+   "popularity": "medium",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 140,
+   "barcode": 1744
+ },
+ {
+   "unit_id": 983,
+   "product_name": "chicken",
+   "popularity": "medium",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 176,
+   "barcode": 2733
+ },
+ {
+   "unit_id": 984,
+   "product_name": "apple",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 8,
+   "barcode": 3959
+ },
+ {
+   "unit_id": 985,
+   "product_name": "salad",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 60,
+   "barcode": 4850
+ },
+ {
+   "unit_id": 986,
+   "product_name": "beef",
+   "popularity": "high",
+   "price": 1,
+   "durability": "high",
+   "daysuntilexpiration": 177,
+   "barcode": 6839
+ },
+ {
+   "unit_id": 987,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 122,
+   "barcode": 4835
+ },
+ {
+   "unit_id": 988,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 13,
+   "barcode": 1002
+ },
+ {
+   "unit_id": 989,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 0,
+   "durability": "medium",
+   "daysuntilexpiration": 49,
+   "barcode": 6859
+ },
+ {
+   "unit_id": 990,
+   "product_name": "pepsi",
+   "popularity": "high",
+   "price": 5,
+   "durability": "medium",
+   "daysuntilexpiration": 162,
+   "barcode": 3850
+ },
+ {
+   "unit_id": 991,
+   "product_name": "yogurt",
+   "popularity": "high",
+   "price": 8,
+   "durability": "medium",
+   "daysuntilexpiration": 327,
+   "barcode": 3712
+ },
+ {
+   "unit_id": 992,
+   "product_name": "cola",
+   "popularity": "high",
+   "price": 2,
+   "durability": "medium",
+   "daysuntilexpiration": 16,
+   "barcode": 5073
+ },
+ {
+   "unit_id": 993,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 0,
+   "durability": "low",
+   "daysuntilexpiration": 242,
+   "barcode": 6005
+ },
+ {
+   "unit_id": 994,
+   "product_name": "salad",
+   "popularity": "medium",
+   "price": 0,
+   "durability": "high",
+   "daysuntilexpiration": 328,
+   "barcode": 7218
+ },
+ {
+   "unit_id": 995,
+   "product_name": "berry",
+   "popularity": "medium",
+   "price": 1,
+   "durability": "low",
+   "daysuntilexpiration": 116,
+   "barcode": 3300
+ },
+ {
+   "unit_id": 996,
+   "product_name": "cheese",
+   "popularity": "low",
+   "price": 7,
+   "durability": "medium",
+   "daysuntilexpiration": 255,
+   "barcode": 5488
+ },
+ {
+   "unit_id": 997,
+   "product_name": "chicken",
+   "popularity": "low",
+   "price": 6,
+   "durability": "high",
+   "daysuntilexpiration": 264,
+   "barcode": 2684
+ },
+ {
+   "unit_id": 998,
+   "product_name": "beef",
+   "popularity": "low",
+   "price": 9,
+   "durability": "high",
+   "daysuntilexpiration": 78,
+   "barcode": 5563
+ },
+ {
+   "unit_id": 999,
+   "product_name": "bananna",
+   "popularity": "high",
+   "price": 7,
+   "durability": "low",
+   "daysuntilexpiration": 364,
+   "barcode": 6626
+ },
+ {
+   "unit_id": 1000,
+   "product_name": "cheese",
+   "popularity": "high",
+   "price": 9,
+   "durability": "medium",
+   "daysuntilexpiration": 21,
+   "barcode": 9099
+ }
+]
