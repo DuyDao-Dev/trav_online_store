@@ -1,10 +1,12 @@
 import { useParams, useNavigate } from 'react-router-dom';
+import { useDispatch } from "react-redux";
 import { useQuery } from '@tanstack/react-query';
 import FetchItem from './FetchItem';
 import Item from './Item';
 import { imgList } from './ImgList';
 
 const Details = () => {
+  const dispatch = useDispatch();
   const navigate = useNavigate();
 
   const { id } = useParams();
@@ -28,6 +30,15 @@ const Details = () => {
     }
   }
 
+  const addToCart = (item) => {
+
+    dispatch({
+      type: 'ADD_TO_CART',
+      payload: item
+    });
+
+  }
+
   return (
     <div className='item details'>
       <div className='image-container'>
@@ -43,7 +54,7 @@ const Details = () => {
           <p>Barcode: {item.barcode}</p>
         </h3>
       </div>
-      <button className='buttons'>
+      <button className='buttons' onClick={() => addToCart(item)}>
         Add to Cart
       </button>
       <button className='buttons'
